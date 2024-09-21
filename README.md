@@ -3,6 +3,8 @@
 
 membuat program untuk mengonversi suhu dari celcius ke suhu lainnya dengan memanfaatkan switch-case untuk menentukan suhu tujuan untuk di konversi.
 
+<i>Dibuat dengan bantuan copilot</i>
+
 <h3>Alur Program</h3>
 <h5>1. Input suhu awal</h5>
 
